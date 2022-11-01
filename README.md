@@ -12,7 +12,7 @@ Este portfolio se creó con la idea de presentar ejercicios y requerimientos de 
 ## Authors
 
 - [@ Emiliano Roldán](http://www.linkedin.com/in/emiliano-javier-roldán-636b31152)
-- @Discord TitoreB#1468
+- [@TitoreB#1468](https://discord.com/)
 
 
 ## Ejecución
